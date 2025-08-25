@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>student Profile</title>
+    <link rel="stylesheet" type="text/css"href="display.css">
+    
+</head>
+<body>
+    <div class="profile-container">
+        <div class="logo">
+        <header><img src="c:
+\Users\HP\Downloads\nitte-nmamit-logo.png"></header>
+    </div>
+        <h1>Student Profile</h1>
+        <div class="profile-photo">
+            <img src="c:
+\Users\HP\One drive\Dokumen\My documents\My photo.jpg" alt="Student Photo">
+        </div>
+    </div class="info">
+        <!--<fieldset>-->
+        <p>Name:Akanksha Shetty</p>
+        <p>Class:CS</p>
+        <p>Address:Brahmavar</p>
+        <p>Phone:7411038101</p>
+        <p>Email:akankshashetty013@gmail.com</p>
+        <p>Blood Group:A+ve</p>
+        <!--</fieldset>-->
+    </div>
+</div>S
+    
+</body>
+</html>
